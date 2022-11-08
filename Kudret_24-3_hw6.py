@@ -16,4 +16,5 @@ def check_password(password):
         return True
     else:
         return False
-print(check_password(input('Введите пароль: ')))
+
+print('hello world')
